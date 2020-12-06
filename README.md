@@ -1,6 +1,6 @@
 # Vegetable-Project
 
-Predicting the price of vegetable depending on multiple fields(average temperature, max temperature, min temperature, and amount of rainfall amount).
+Predicting the price of vegetable depending on multiple fields(average temperature, max temperature, min temperature, and amount of rainfall).
 
 You can post this content to your localhost webpage by entering "python server.py"
 
